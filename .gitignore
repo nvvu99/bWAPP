@@ -1,0 +1,4 @@
+.env
+db
+.session.vim
+.php-cs-fixer.cache
